@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aqib Javed
 
-I am a Software Engineer with 2 years of experience specializing in front-end development using React and Next.js.
+I am a Software Engineer with 2 years of experience specializing in Front-End Development using React.js and Next.js. I have a strong passion for building scalable, user-friendly, and high-performance web applications.
 
 ## 🚀 Skills
 
