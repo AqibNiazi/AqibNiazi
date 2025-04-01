@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am a software engineer with 2 years of experience specializing in front-end development using React and Next.js. Currently working in DBQP Labs.</h2>
+<h2 align="center">Hi 👋! I am a software engineer with 2 years of experience specializing in front-end development using React and Next.js.</h2>
 
 ###
 
