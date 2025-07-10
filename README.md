@@ -1,100 +1,67 @@
-# Hi 👋, I'm Aqib Javed
+# Hi there, I'm Muhammad Aqib Javed 👋
 
-I am a Software Engineer with 2 years of experience specializing in Front-End Development using React.js and Next.js. I have a strong passion for building scalable, user-friendly, and high-performance web applications.
+**Machine Learning Enthusiast | Software Engineer**
 
-## 🚀 Skills
-
-### Frontend
-<div>
-<img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="30" alt="react query logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/antdesign/0170FE" height="30" alt="ant design logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="material ui logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-<img width="12" />
-
-</div>
-
-### Backend
-<div>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</div>
-
-### Databases
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-</div>
-
-### Other Technologies
-<div>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo" />
-</div>
-
-## 📊 GitHub Stats
-![Aqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AqibNiazi&show_icons=true&theme=radical)
-
-## 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AqibNiazi&theme=react-dark)
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AqibNiazi&color=blue)
-
-## 📬 Contact Me
-<a href="https://www.linkedin.com/in/maqibjaved/">LinkedIn</a> | <a href="mailto:aqibjaved5201@gmail.com">Gmail</a> | <a href="https://www.instagram.com/muhammadaqib.javed.71/">Instagram</a> | <a href="https://www.facebook.com/muhammadaqib.javed.71">Facebook</a> | <a href="https://medium.com/@aqibjavedniazi">Medium</a> | <a href="https://wa.me/+923081177825">WhatsApp</a>
+Welcome to my GitHub! I'm a Software Engineering graduate from UET Taxila (Batch 2018 – Distinction Holder 🎓) with a passion for building Full Stack AI-powered solutions and impactful open-source projects.
 
 ---
-💡 Feel free to connect with me!
+
+## 👩‍💻 About Me
+
+- 🎯 I am specialized in Generative AI, Machine Learning, and Full Stack Applications.
+- 🧠 I love solving complex problems through clean and scalable code.
+- 🛠️ I've built apps like LISTIT.aesupport real-world use cases like IELTS prep, budgeting, and child development tracking.
+- 🌐 I contribute to the tech community through speaking engagements, mentorship, and spreading free knowledge.
+- 🚀 I'm always eager to collaborate on innovative ideas and meaningful projects.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+- **Languages:** Python, Verilog, SystemVerilog  
+- **Frontend:** Streamlit, Gradio 
+- **AI/ML:** Hugging Face Transformers, Gemini, DeepSeek, Scikit-Learn, Keras, Tensorflow, ANN, OpenCV, CNN, RNN, Transformers, LLM, RAG, AI Agents
+- **Data Analysis:** NumPy, Pandas, Matplotlib.pyplot, Seaborn, Plotly, MS Excel
+- **Hardware:** FPGA (Xilinx), UVM
+- **Other Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Canva, MATLAB, ModelSim, Vivado
+
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Distinction Holder** in CSE Batch 2020 – NEDUET  
+- 🏅 **Best Use of CAMEL-AI** – DeepSeek Hackathon (Lablab.ai)  
+- 🧩 **CS50x Puzzle Day 2025** – Solved all 9/9 puzzles  
+- 🧠 **AI-Powered IELTS Writing Chatbot** – Gemini + ChromaDB + Gradio  
+- 📊 **Personal Finance Assistant** – AI-based budgeting from PDFs  
+- 👶 **Tiny Triumphs Tracker** – Milestone analysis using Llama-3.3-70B + FAISS  
+- 🎤 **IELTS Guest Speaker** – at iCodeGuru for underprivileged student sessions  
+- 🤝 **Core Team Membera and Leader** – GDSC NEDUET
+- 🪧 **Co-Founder** - CIS Community, NEDUET
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ **Email:** [aqibjaved.dev@gmail.com](mailto:aqibjaved.dev@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/maqibjaved](https://www.linkedin.com/in/maqibjaved/)  
+- 🌐 **Portfolio Website:** [AqibJaved](https://github.com/AqibNiazi)  
+- 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)  
+- 🤖 **Hugging Face:** [aqibniazi](https://huggingface.co/aqibniazi)  
+- 📚 **Currently Learning:** Prompt Engineering, Machine Learning Specialization  
+
+---
+
+## 📊 My GitHub Stats
+
+<a href="http://www.github.com/safia-faiz02"><img src="https://github-readme-stats.vercel.app/api?username=safia-faiz02&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Safia's GitHub stats" /></a>
+
+<a href="http://www.github.com/safia-faiz02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=safia-faiz02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/safia-faiz02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safia-faiz02&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+
+> “I build things that solve real problems and inspire real people.”
+
+Thanks for stopping by! ⭐️
