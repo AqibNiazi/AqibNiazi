@@ -2,36 +2,31 @@
 
 **Full Stack Developer | AI/ML Enthusiast | UET Taxila Graduate**
 
-Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Batch 2018 – Distinction Holder 🎓) with a strong background in building scalable Full Stack applications and AI-powered solutions that address real-world problems.
+Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Batch 2018 🎓) with a strong background in building scalable Full Stack applications and AI-powered solutions that address real-world problems.
 
----
 
 ## 👨‍💻 About Me
 
-- 🔍 Currently working as a **Frontend Developer at DBQP**, where I contribute to React-based enterprise dashboards and components.
-- 💡 Passionate about **AI, LLMs, Generative AI**, and **intelligent systems** that make everyday processes smarter.
+- 🔍 Currently working as a **Frontend Developer at DBQP**, where I contribute to React-based enterprise dashboards and Applications.
+- 💡 Passionate about **AI, ML, DL, NLP, LLMs, Generative AI**, and **intelligent systems** that make everyday processes smarter.
 - 🛠️ Led frontend development at **MindZbase** for products like **Listit** and **Marketa**, and independently developed a backend chatbot app (Node.js) for **Pioneer Auctions**.
-- 🌐 Contributed to **RealEstateHub** – a fully responsive property listing website.
+- 🌐 Build **RealEstateHub** – a fully responsive Next.jS Based Full Stack property listing website.
 - 🧠 Strong focus on clean UI/UX, reusable components, and scalable codebases using React, Next.js, Tailwind CSS, Redux Toolkit, and Ant Design.
 - 🚀 Open to impactful collaborations, especially in the domains of AI + Full Stack development.
 
----
-
 ## 🔧 Tech Stack & Tools
 
-- **Languages:** JavaScript, TypeScript, PHP, Python, SQL  
+- **Languages:** JavaScript, TypeScript, Python, SQL  
 - **Frontend:** React.js, Next.js, Tailwind CSS, Ant Design, Redux Toolkit, React Query  
-- **Backend:** Node.js, Express.js, Laravel, REST APIs  
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
 - **AI/ML:** Scikit-learn, Keras, TensorFlow, OpenCV, HuggingFace, LLMs, RAG, Chatbots  
 - **Tools:** Git, GitHub, Figma, Vite, Postman, Firebase, Railway, Netlify, Vercel  
 - **Data & Visualization:** Day.js, Pandas, NumPy, Matplotlib, MS Excel  
 - **Platforms:** Linux, Windows, GitHub Actions  
 
----
-
 ## 🏆 Highlights & Projects
 
-- 🥇 **Distinction Holder** – UET Taxila, 2023  
+- 🥇 **Distinction Holder** – UET Taxila, 2023
 - 🧠 **AI-powered IELTS Writing Chatbot** – Built using Gemini + ChromaDB + Gradio  
 - 📋 **Listit App** – Dynamic task manager with React + Firebase + AI assist features  
 - 🏘️ **RealEstateHub** – End-to-end responsive real estate listing platform  
@@ -41,7 +36,7 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 🎤 **IELTS Guest Speaker** – Delivered interactive sessions for students at iCodeGuru  
 - 🧩 **CS50x Puzzle Day 2025** – Completed all 9/9 puzzles  
 - 💬 **Mentored Juniors** – Through GDSC, internships, and project reviews  
-- 🏢 **Worked at MindZbase** – Played a key role in delivering frontend UIs for commercial apps
+- 🏢 **Worked at MindZbase** – Played a key role in delivering frontend UIs for commercial apps and beckend 
 
 ---
 
