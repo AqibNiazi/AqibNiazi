@@ -49,7 +49,7 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 🌐 **Portfolio:** [github.com/AqibNiazi](https://github.com/AqibNiazi)  
 - 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)  
 - 🤖 **Hugging Face:** [aqibniazi](https://huggingface.co/aqibniazi)  
-- 📚 **Currently Learning:** Prompt Engineering, Deep Learning, DevOps
+- 📚 **Currently Learning:** Mathematics for Machine Learning & Deep Learning.
 
 ---
 
