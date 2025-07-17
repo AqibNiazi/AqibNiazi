@@ -26,17 +26,15 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 
 ## 🏆 Highlights & Projects
 
-- 🥇 **Distinction Holder** – UET Taxila, 2023
-- 🧠 **AI-powered IELTS Writing Chatbot** – Built using Gemini + ChromaDB + Gradio  
-- 📋 **Listit App** – Dynamic task manager with React + Firebase + AI assist features  
-- 🏘️ **RealEstateHub** – End-to-end responsive real estate listing platform  
-- 🤖 **Pioneer Auction Chatbot (Backend)** – Developed and deployed independently using Node.js  
-- 📦 **Material Order Manager** – Interactive form-based dashboard for inventory tracking  
-- 🛠 **Reusable Dashboard Components** – Developed dynamic sidebar, tabbed panels, and file upload components using Ant Design and Tailwind  
-- 🎤 **IELTS Guest Speaker** – Delivered interactive sessions for students at iCodeGuru  
-- 🧩 **CS50x Puzzle Day 2025** – Completed all 9/9 puzzles  
-- 💬 **Mentored Juniors** – Through GDSC, internships, and project reviews  
-- 🏢 **Worked at MindZbase** – Played a key role in delivering frontend UIs for commercial apps and beckend 
+- 🧩 **CS50x Puzzle Day 2025** – Successfully completed all 9 out of 9 puzzles.
+- 🏆 **CALICO Competition – UC Berkeley** – Secured 117th rank out of 820 teams at the CALICO Competition, April 2025.
+- 🐍 **Python Trainer** – Conducted a 4-week Python session and trained 100+ students at ICodeGuru (USA).
+- 💻 **GitHub Workshop at UET Lahore** – Conducted a GitHub workshop at UET Lahore, trained 150+ students, and reviewed their profiles.
+- 🧠 **IELTS Trainer** – Led a 6-week IELTS session and trained 200+ students with complete mock tests and expert tips.
+- 🏘️ **RealEstateHub** – Built and deployed a full-stack real estate web application using Next.js.
+- 📋 **Listit App** – Led frontend development of Listit, a bidding platform for ARMS Group Marketing (UAE).
+- 🤖 **Pioneer Auction Chatbot (Backend)** – Developed an auction and bidding chatbot for the Pioneer Auction website (UAE).
+-🏢 **Software Engineer at MindZbase** – Played a key role in building and maintaining software applications.
 
 ---
 
