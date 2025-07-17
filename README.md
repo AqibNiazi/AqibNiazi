@@ -14,6 +14,8 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 🧠 Strong focus on clean UI/UX, reusable components, and scalable codebases using React, Next.js, Tailwind CSS, Redux Toolkit, and Ant Design.
 - 🚀 Open to impactful collaborations, especially in the domains of AI + Full Stack development.
 
+---
+
 ## 🔧 Tech Stack & Tools
 
 - **Languages:** JavaScript, TypeScript, Python, SQL  
@@ -22,7 +24,9 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - **AI/ML:** Scikit-learn, Keras, TensorFlow, OpenCV, HuggingFace, LLMs, RAG, Chatbots  
 - **Tools:** Git, GitHub, Figma, Vite, Postman, Firebase, Railway, Netlify, Vercel  
 - **Data & Visualization:** Day.js, Pandas, NumPy, Matplotlib, MS Excel  
-- **Platforms:** Linux, Windows, GitHub Actions  
+- **Platforms:** Linux, Windows, GitHub Actions
+
+---
 
 ## 🏆 Highlights & Projects
 
