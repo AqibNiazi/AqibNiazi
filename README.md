@@ -38,7 +38,7 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 🏘️ **RealEstateHub** – Built and deployed a full-stack real estate web application using Next.js.
 - 📋 **Listit App** – Led frontend development of Listit, a bidding platform for ARMS Group Marketing (UAE).
 - 🤖 **Pioneer Auction Chatbot (Backend)** – Developed an auction and bidding chatbot for the Pioneer Auction website (UAE).
--🏢 **Software Engineer at MindZbase** – Played a key role in building and maintaining software applications.
+- 🏢 **Software Engineer at MindZbase** – Played a key role in building and maintaining software applications.
 
 ---
 
