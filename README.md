@@ -1,65 +1,80 @@
 # Hi there, I'm Muhammad Aqib Javed 👋
 
-**Full Stack Developer | AI/ML Enthusiast | UET Taxila Graduate**
+**Aspiring AI Researcher | Full Stack Engineer | UET Taxila Graduate 🎓**
 
-Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Batch 2018 🎓) with a strong background in building scalable Full Stack applications and AI-powered solutions that address real-world problems.
-
-
-## 👨‍💻 About Me
-
-- 🔍 Currently working as a **Frontend Developer at DBQP**, where I contribute to React-based enterprise dashboards and Applications.
-- 💡 Passionate about **AI, ML, DL, NLP, LLMs, Generative AI**, and **intelligent systems** that make everyday processes smarter.
-- 🛠️ Led frontend development at **MindZbase** for products like **Listit** and **Marketa**, and independently developed a backend chatbot app (Node.js) for **Pioneer Auctions**.
-- 🌐 Build **RealEstateHub** – a fully responsive Next.jS Based Full Stack property listing website.
-- 🧠 Strong focus on clean UI/UX, reusable components, and scalable codebases using React, Next.js, Tailwind CSS, Redux Toolkit, and Ant Design.
-- 🚀 Open to impactful collaborations, especially in the domains of AI + Full Stack development.
+I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a strong foundation in **full stack systems** and a growing focus on **Artificial Intelligence and Machine Learning research**.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔬 Research-Oriented Profile
 
-- **Languages:** JavaScript, TypeScript, Python, SQL  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Ant Design, Redux Toolkit, React Query  
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs  
-- **AI/ML:** Scikit-learn, Keras, TensorFlow, OpenCV, HuggingFace, LLMs, RAG, Chatbots  
-- **Tools:** Git, GitHub, Figma, Vite, Postman, Firebase, Railway, Netlify, Vercel  
-- **Data & Visualization:** Day.js, Pandas, NumPy, Matplotlib, MS Excel  
-- **Platforms:** Linux, Windows, GitHub Actions
-
----
-
-## 🏆 Highlights & Projects
-
-- 🧩 **CS50x Puzzle Day 2025** – Successfully completed all 9 out of 9 puzzles.
-- 🏆 **CALICO Competition – UC Berkeley** – Secured 117th rank out of 820 teams at the CALICO Competition, April 2025.
-- 🐍 **Python Trainer** – Conducted a 4-week Python session and trained 100+ students at ICodeGuru (USA).
-- 💻 **GitHub Workshop at UET Lahore** – Conducted a GitHub workshop at UET Lahore, trained 150+ students, and reviewed their profiles.
-- 🧠 **IELTS Trainer** – Led a 6-week IELTS session and trained 200+ students with complete mock tests and expert tips.
-- 🏘️ **RealEstateHub** – Built and deployed a full-stack real estate web application using Next.js.
-- 📋 **Listit App** – Led frontend development of Listit, a bidding platform for ARMS Group Marketing (UAE).
-- 🤖 **Pioneer Auction Chatbot (Backend)** – Developed an auction and bidding chatbot for the Pioneer Auction website (UAE).
-- 🏢 **Software Engineer at MindZbase** – Played a key role in building and maintaining software applications.
+* 🧠 Aspiring **AI/ML researcher** preparing for **MS / PhD / Graduate Research** opportunities
+* 💻 Strong background in **software engineering** and **end-to-end system development**
+* 📊 Interested in **data-driven and model-centric AI systems**
+* 📚 Actively strengthening foundations in **Mathematics for ML & Deep Learning**
+* 🧩 Comfortable translating **research ideas into working systems**
+* 🎯 Long-term goal: contribute to **applied AI research** with real-world impact
 
 ---
 
-## 📫 Let's Connect
+## 👨‍💻 Technical Background
 
-- 📧 **Email:** [aqibjaved.dev@gmail.com](mailto:aqibjaved.dev@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/maqibjaved](https://www.linkedin.com/in/maqibjaved/)  
-- 🌐 **Portfolio:** [github.com/AqibNiazi](https://github.com/AqibNiazi)  
-- 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)  
-- 🤖 **Hugging Face:** [aqibniazi](https://huggingface.co/aqibniazi)  
-- 📚 **Currently Learning:** Mathematics for Machine Learning & Deep Learning.
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AqibNiazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AqibNiazi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🧑‍💻 Worked as a **Frontend Developer at DBQP**, contributing to large-scale React applications
+* 🧱 Experience designing **scalable, maintainable, and reusable architectures**
+* 🎨 Strong focus on **clean UI/UX**, performance, and developer experience
+* 🔁 Experienced in collaboration, mentoring, and technical knowledge sharing
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AqibNiazi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 Research Interests
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧬 Deep Learning
+* 📝 Natural Language Processing (NLP)
+* 🧠 Large Language Models (LLMs) & Generative AI
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧩 Applied ML Systems & Intelligent Applications
 
 ---
-I build products that simplify lives and spark innovation through code.
 
-Thanks for visiting! ⭐️
+## 🛠️ Skills & Tools
+
+* **Languages:** Python, JavaScript, TypeScript, SQL
+* **ML / AI:** Scikit-learn, TensorFlow, Keras, OpenCV, HuggingFace, LLMs
+* **Data:** Pandas, NumPy, Matplotlib
+* **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit, Ant Design
+* **Backend:** Node.js, Express.js, MongoDB, REST APIs
+* **Tools:** Git, GitHub, Linux, GitHub Actions, Postman, Vite
+
+---
+
+## 🏆 Academic & Technical Highlights
+
+* 🧩 Completed **CS50x Puzzle Day 2025** (9/9 puzzles solved)
+* 🏆 Ranked **117 / 820 teams** in **CALICO Competition (UC Berkeley)**
+* 🐍 Conducted **Python training programs** for 100+ students
+* 💻 Led **GitHub workshops** and mentored students in software best practices
+* 🎤 Strong experience in **technical communication and teaching**
+
+---
+
+## 📫 Academic & Professional Links
+
+* 📧 **Email:** [aqibjaved.dev@gmail.com](mailto:aqibjaved.dev@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/maqibjaved](https://www.linkedin.com/in/maqibjaved/)
+* 🌐 **GitHub:** [github.com/AqibNiazi](https://github.com/AqibNiazi)
+* 🤖 **Hugging Face:** [huggingface.co/aqibniazi](https://huggingface.co/aqibniazi)
+* 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AqibNiazi\&theme=dark)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AqibNiazi\&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi\&theme=dark\&layout=compact)
+
+---
+
+✨ *Building strong engineering foundations for meaningful AI research.*
+⭐️ Thanks for visiting!
