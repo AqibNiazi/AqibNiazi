@@ -55,20 +55,32 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 
 ## 📊 My GitHub Stats
 
-<a href="https://github.com/AqibNiazi">
-  <img src="https://github-readme-stats.vercel.app/api?username=AqibNiazi&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" 
-       alt="Aqib's GitHub stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/AqibNiazi">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=AqibNiazi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
+      alt="Aqib's GitHub Stats"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/AqibNiazi">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=AqibNiazi&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-       alt="GitHub Streak" />
-</a>
+<p align="center">
+  <a href="https://github.com/AqibNiazi">
+    <img
+      src="https://github-readme-streak-stats.vercel.app/?user=AqibNiazi&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
+      alt="GitHub Streak Stats"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/AqibNiazi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" 
-       alt="Top Languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/AqibNiazi">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 ---
 
