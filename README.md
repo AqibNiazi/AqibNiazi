@@ -52,38 +52,6 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 📚 **Currently Learning:** Mathematics for Machine Learning & Deep Learning.
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/AqibNiazi">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=AqibNiazi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
-      alt="Aqib's GitHub Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AqibNiazi">
-    <img
-      src="https://github-readme-streak-stats.vercel.app/?user=AqibNiazi&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"
-      alt="GitHub Streak Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AqibNiazi">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
----
-
-> *"I build products that simplify lives and spark innovation through code."*
+ *"I build products that simplify lives and spark innovation through code."*
 
 Thanks for visiting! ⭐️
