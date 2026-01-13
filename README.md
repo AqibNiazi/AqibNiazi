@@ -50,8 +50,16 @@ Welcome to my GitHub! I’m a Software Engineering graduate from UET Taxila (Bat
 - 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)  
 - 🤖 **Hugging Face:** [aqibniazi](https://huggingface.co/aqibniazi)  
 - 📚 **Currently Learning:** Mathematics for Machine Learning & Deep Learning.
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AqibNiazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AqibNiazi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
- *"I build products that simplify lives and spark innovation through code."*
+[![](https://visitcount.itsvg.in/api?id=AqibNiazi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+I build products that simplify lives and spark innovation through code.
 
 Thanks for visiting! ⭐️
