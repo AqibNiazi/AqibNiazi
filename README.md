@@ -51,8 +51,8 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 ## 🏆 Academic & Technical Highlights
 
 * 🧩 Completed **CS50x Puzzle Day 2025** (9/9 puzzles solved)
-* 🏆 Ranked **117 / 820 teams** in **CALICO Competition (UC Berkeley)**
-* 🐍 Conducted **Python training programs** for 100+ students
+* 🏆 Ranked **Top 15%** in **CALICO Competition (UC Berkeley)**
+* 🐍 Conducted **Python training programs** for 500+ students
 * 💻 Led **GitHub workshops** and mentored students in software best practices
 * 🎤 Strong experience in **technical communication and teaching**
 
