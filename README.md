@@ -4,7 +4,7 @@
 
 I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a strong foundation in **full stack systems** and a growing focus on **Artificial Intelligence and Machine Learning**.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -14,7 +14,7 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit, Ant Design
 * **Backend:** Node.js, Express.js, MongoDB, REST APIs
 * **Tools:** Git, GitHub, Linux, GitHub Actions, Postman, Vite
----
+
 
 ## 🧠 Research Interests
 
@@ -25,7 +25,7 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 * 🔎 Retrieval-Augmented Generation (RAG)
 * 🧩 Applied ML Systems & Intelligent Applications
   
----
+
 
 ## 📫 Professional Links
 
@@ -35,7 +35,7 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 * 🤖 **Hugging Face:** [huggingface.co/aqibniazi](https://huggingface.co/aqibniazi)
 * 🧠 **LeetCode:** [Aqib_Niazi](https://leetcode.com/u/Aqib_Niazi/)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -43,7 +43,7 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 ![](https://nirzak-streak-stats.vercel.app/?user=AqibNiazi\&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi\&theme=dark\&layout=compact)
 
----
+
 
 ✨ *Building strong engineering foundations for meaningful AI research.*
 ⭐️ Thanks for visiting!
