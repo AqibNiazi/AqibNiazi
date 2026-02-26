@@ -12,7 +12,7 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a st
 * **ML / AI:** Scikit-learn, TensorFlow, Keras, OpenCV, HuggingFace, LLMs
 * **Data:** Pandas, NumPy, Matplotlib
 * **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit, Ant Design
-* **Backend:** Node.js, Express.js, MongoDB, REST APIs
+* **Backend:** Flask, Node.js, Express.js, MongoDB, REST APIs
 * **Tools:** Git, GitHub, Linux, GitHub Actions, Postman, Vite
 
 
