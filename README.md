@@ -2,7 +2,7 @@
 
 **Aspiring AI Researcher | Full Stack Engineer | UET Taxila Graduate 🎓**
 
-I’m a Software Engineering graduate from **UET Taxila (Batch 2018)** with a strong foundation in **full stack systems** and a growing focus on **Artificial Intelligence and Machine Learning**.
+I’m a Software Engineering graduate from **UET Taxila (Batch 2022)** with a strong foundation in **full stack systems** and a growing focus on **Artificial Intelligence and Machine Learning**.
 
 
 
