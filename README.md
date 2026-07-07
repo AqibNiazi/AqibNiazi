@@ -42,14 +42,6 @@ I’m a Software Engineering graduate from **UET Taxila (Batch 2022)** with a st
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AqibNiazi&theme=dark&hide_border=true)
 
-<!-- Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AqibNiazi&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibNiazi&layout=compact&theme=dark&hide_border=true)
-
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AqibNiazi&theme=react-dark&hide_border=true)
 
 ✨ *Building strong engineering foundations for meaningful AI research.*
 ⭐️ Thanks for visiting!
